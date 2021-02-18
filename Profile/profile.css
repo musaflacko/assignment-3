@@ -13,6 +13,7 @@ section {
 
 .back-button {
     padding: 1.5em;
+    padding-bottom: 0px;
 }
 
 header {
@@ -31,7 +32,7 @@ main {
 .buttons {
     text-align: center;
     display: flex;
-    padding: 21px; 
+    padding: 25px; 
 }
 
 a {

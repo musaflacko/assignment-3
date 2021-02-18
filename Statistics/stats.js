@@ -16,7 +16,7 @@ let app_data = [],
   formatedDates = [];
 
 //Get Country's Code
-let country_code = geoplugin_countryCode();
+let country_code = "SG";
 let user_country;
 country_list.forEach((country) => {
   if (country.code == country_code) {

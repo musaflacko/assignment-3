@@ -11,6 +11,10 @@ section {
     border: 1px solid #ccc;
 }
 
+.back-button {
+    padding: 1.5em;
+}
+
 header {
     padding: 30px;
     padding-top: 45px;

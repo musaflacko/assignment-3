@@ -73,7 +73,7 @@ main {
     border-radius: 10px;
 }
 
-#buyButton {
+.btn, btn-light {
     color: white;
     background-color: #9932cc;
     padding: 20px;

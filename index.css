@@ -58,13 +58,11 @@ h2 {
     font-size: 1.5rem;
 }
 
-.button {
-    display: inline-block;
-    padding: 10px;
-    border-radius: 10px;
-    background-color: #9932CC;
-    font-size: 1.0em;
+.btn, btn-light{
+    background-color: #9932cc;
+    color: white;
 }
+
 
 *{
     padding: 0;

@@ -41,12 +41,14 @@
 </ol>
 
 <h3>Screen Size</h3>
-<ol>
+<ul>
   <li>The use of a physical mobile phone<br>We use our physical phones to test out the website. To view it from different devices and make sure that we were able to navigate around the website smoothly.</li>
-</ol>
+</ul>
 
 <h3>Browsers</h3>
-<p>After the website is developed, we tried it out on google chrome as well as the safari browser with our phones. It is to make sure that the website can work on different browsers properly.</p>
+<ul>
+  <li>After the website is developed, we tried it out on google chrome as well as the safari browser with our phones. It is to make sure that the website can work on different browsers properly.</li>
+</ul>
 
 <h2>Credits</h2>
 <h3>Technologies Used</h3>

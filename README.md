@@ -1,6 +1,6 @@
 <h1>Smart Mask</h1>
   
-<p>Group Name: Goal Diggers<br>Class: P08<br>Website URL: https://musaflacko.github.io/assignment-3/<br>Video Pitch: </p>
+<p>Group Name: Goal Diggers<br>Class: P08<br>Website URL: https://musaflacko.github.io/assignment-3/</p>
 
 <h2>Design Process</h2>
 <p>Firstly, we determine our intended audience for this website. As such, we are putting ourselves into their shoes as a user. To be able to ask ourselves questions like why would they need or use our website for?</p>
